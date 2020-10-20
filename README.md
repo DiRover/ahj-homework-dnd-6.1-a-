@@ -1,5 +1,5 @@
-# Trello
+# Task_6.1
 
-[![Build status](https://ci.appveyor.com/api/projects/status/8l9kj2dg5hiey44t?svg=true)](https://ci.appveyor.com/project/AnnVasilyeva/trello)
+[![Build status](https://ci.appveyor.com/api/projects/status/c8rch0o4s8htv19c?svg=true)](https://ci.appveyor.com/project/DiRover/ahj-homework-dnd-6-1-a)
 
-[GitHub Pages](https://annvasilyeva.github.io/Trello/)
+[GitHub Pages](https://dirover.github.io/ahj-homework-dnd-6.1-a-/)
