@@ -1,0 +1,10 @@
+import './css/style.css';
+import './js/app';
+import './js/addForm';
+import './js/Card';
+import './js/default';
+import './img/menu-dots.png';
+import './js/DnD';
+// import './img/cat.png';
+import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
+import '../node_modules/@fortawesome/fontawesome-free/js/all';
